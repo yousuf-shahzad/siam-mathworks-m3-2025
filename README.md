@@ -20,7 +20,7 @@ As global temperatures rise, cities face increasing threats from prolonged and s
 ## Team
 
 - Sudhakara Ambati [(@sudhakara-ambati)](https://github.com/sudhakara-ambati)
-- Aditya Prabhakar
+- Aditya Prabhakar [(@Adityaprabhakar369)](https://github.com/adityaprabhakar369)
 - Yuvraj Shah
 - Yousuf Shahzad ([@yousuf-shahzad](https://github.com/yousuf-shahzad))
 
